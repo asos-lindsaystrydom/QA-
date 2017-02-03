@@ -1,0 +1,6 @@
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hello\Hello\bin\Debug\Hello.exe.config
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hello\Hello\bin\Debug\Hello.exe
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hello\Hello\bin\Debug\Hello.pdb
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.exe
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.pdb

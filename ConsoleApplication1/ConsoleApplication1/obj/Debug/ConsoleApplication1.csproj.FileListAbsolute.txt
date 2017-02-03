@@ -1,0 +1,2 @@
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Hello.exe.config

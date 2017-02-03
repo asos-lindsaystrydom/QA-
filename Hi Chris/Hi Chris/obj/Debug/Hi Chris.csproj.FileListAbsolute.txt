@@ -1,0 +1,6 @@
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\Hi Chris\Hi Chris\bin\Debug\Hi Chris.exe.config
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\Hi Chris\Hi Chris\bin\Debug\Hi Chris.exe
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\Hi Chris\Hi Chris\bin\Debug\Hi Chris.pdb
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\Hi Chris\Hi Chris\obj\Debug\Hi Chris.csprojResolveAssemblyReference.cache
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\Hi Chris\Hi Chris\obj\Debug\Hi Chris.exe
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\Hi Chris\Hi Chris\obj\Debug\Hi Chris.pdb

@@ -1,0 +1,7 @@
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\bin\Debug\EULERPROBLEM1.dll
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\bin\Debug\EULERPROBLEM1.pdb
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\bin\Debug\nunit.framework.dll
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\bin\Debug\nunit.framework.xml
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\obj\Debug\EULERPROBLEM1.csprojResolveAssemblyReference.cache
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\obj\Debug\EULERPROBLEM1.dll
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\EULERPROBLEM1\EULERPROBLEM1\obj\Debug\EULERPROBLEM1.pdb

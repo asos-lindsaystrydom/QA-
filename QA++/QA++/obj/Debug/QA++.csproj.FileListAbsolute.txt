@@ -1,0 +1,6 @@
+c:\users\lindsay.strydom\documents\visual studio 2013\Projects\QA++\QA++\bin\Debug\QA++.exe.config
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\QA++\QA++\obj\Debug\QA++.csprojResolveAssemblyReference.cache
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\QA++\QA++\bin\Debug\QA++.exe
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\QA++\QA++\bin\Debug\QA++.pdb
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\QA++\QA++\obj\Debug\QA++.exe
+C:\Users\lindsay.strydom\Documents\Visual Studio 2013\Projects\QA++\QA++\obj\Debug\QA++.pdb
