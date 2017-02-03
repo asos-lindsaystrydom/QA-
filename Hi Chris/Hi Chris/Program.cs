@@ -26,6 +26,8 @@ namespace Hi_Chris
                 Console.WriteLine("Dont lie - you are totally the best!");
             }
 
+            Console.ReadKey();
+
         }
     }
 }
